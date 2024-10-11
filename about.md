@@ -46,7 +46,7 @@ Featured in [Carnegie Mellon University Libraries news story](https://www.librar
 ## November 2023: 
 Awarded BSA grant to create educational video on bibliographic color analysis tool titled [Hue’s Clues: Understanding Book History through Paper Color Analysis](https://www.youtube.com/watch?v=OOJCXt-MNMw)
 
-# Teaching 
+# Teaching: 
 
 ## Instructor of Record, Carnegie Mellon University  
 
