@@ -21,11 +21,11 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/LD2022Headshot.jpg"
+  avatar           : "/images/LD2022Headshot.jpg"
   name             : "Laura S. DeLuca"
   pronouns         : "she/her"  
   bio              : "PhD Candidate in English"
-  #location         : 
+  location         : "Pittsburgh, PA"
   employer         : "Carnegie Mellon University"
   uri              : # URL
   email            : "ldeluca [-at-] andrew [-dot-] cmu [-dot-] edu" 

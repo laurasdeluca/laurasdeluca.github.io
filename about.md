@@ -31,16 +31,16 @@ Ndiaye. Philadelphia: University of Pennsylvania Press, 2022. pp. 355. *Shakespe
 # News:
 
 ## May 2024: 
-A CMU news story was released about the Print and Probability Project team's ESTC stopgap [English Short Title Catalogue](https://library.cmu.edu/about/news/2024-05/english-short-title-catalogue)
+A CMU news story was released about the Print and Probability Project team's ESTC stopgap [English Short Title Catalogue](https://library.cmu.edu/about/news/2024-05/english-short-title-catalogue).
 
 ## April 2024: 
-Featured in [Inventing Shakespeare Exhibition news story](https://www.library.cmu.edu/about/exhibits/inventing-shakespeare)
+Featured in [Inventing Shakespeare Exhibition news story](https://www.library.cmu.edu/about/exhibits/inventing-shakespeare).
 
 ## March 2024: 
-Featured in [AI UCSD story](https://ai.ucsd.edu/node/31)
+Featured in [AI UCSD story](https://ai.ucsd.edu/node/31).
 
 ## January 2024: 
-Featured in [Carnegie Mellon University Libraries news story](https://www.library.cmu.edu/about/news/2023-12/stephen-greenblatt-shakespeare-lectu)
+Featured in [Carnegie Mellon University Libraries news story](https://www.library.cmu.edu/about/news/2023-12/stephen-greenblatt-shakespeare-lecture) about a campus visit by Stephen Greenblatt.
 
 ## November 2023: 
 Awarded BSA grant to create educational video on bibliographic color analysis tool titled [Hue’s Clues: Understanding Book History through Paper Color Analysis](https://www.youtube.com/watch?v=OOJCXt-MNMw)
