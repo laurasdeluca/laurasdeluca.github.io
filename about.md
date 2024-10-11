@@ -6,6 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
+![illustration of ancient queens in early modern drama and digital humanities](https://laurasdeluca.github.io/images/ancientqueens.webp){: .align-right width="300px"}
 
 # About me:
 
