@@ -12,8 +12,6 @@ redirect_from:
 
 I am a third-year PhD Candidate in English at [Carnegie Mellon University](https://www.cmu.edu/dietrich/english/about-us/phds/bios/laura-deluca.html). My research interests include early modern drama and history, gender and sexuality studies, critical race studies, book history, and digital humanities. In particular, my research focuses on ancient queens in early modern drama, examining the respective models of race and sexuality produced on the early modern English stage.
 
-Feel free to reach out: [Email me](mailto:ldeluca@andrew.cmu.edu).
-
 # Publications:
 
 ## Articles
