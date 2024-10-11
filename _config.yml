@@ -25,7 +25,7 @@ author:
   name             : "Laura S. DeLuca"
   pronouns         : "she/her"  
   bio              : "PhD Candidate in English"
-  location         : "Pittsburgh, PA"
+  #location         : 
   employer         : "Carnegie Mellon University"
   uri              : # URL
   email            : "ldeluca [-at-] andrew [-dot-] cmu [-dot-] edu" 
