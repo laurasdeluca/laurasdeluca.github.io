@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<img src="https://laurasdeluca.github.io/images/ancientqueens.webp" alt="Illustration of my scholarly interests" align="right" width="300px">
+![Illustration of my scholarly interests](https://laurasdeluca.github.io/images/ancientqueens.jpg){: .align-right width="300px"}
 
 # About me:
 
