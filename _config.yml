@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "/images/LD2022Headshot.jpg"
+  avatar           : "https://laurasdeluca.github.io/images/LD2022Headshot.jpg"
   name             : "Laura S. DeLuca"
   pronouns         : "she/her"  
   bio              : "PhD Candidate in English"
