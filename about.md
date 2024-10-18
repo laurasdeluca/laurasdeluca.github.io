@@ -35,7 +35,7 @@ Ndiaye. Philadelphia: University of Pennsylvania Press, 2022. pp. 355. *Shakespe
 A CMU news story was released about the Print and Probability Project team's ESTC stopgap [English Short Title Catalogue](https://library.cmu.edu/about/news/2024-05/english-short-title-catalogue).
 
 ## April 2024: 
-Featured in [Inventing Shakespeare Exhibition news story](https://www.library.cmu.edu/about/exhibits/inventing-shakespeare).
+A CMU news story was released about an exhibit made for the Print and Probability Project [Inventing Shakespeare Exhibition news story](https://www.library.cmu.edu/about/exhibits/inventing-shakespeare).
 
 ## March 2024: 
 Featured in [AI UCSD story](https://ai.ucsd.edu/node/31).
