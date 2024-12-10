@@ -50,7 +50,7 @@ Awarded BSA grant to create educational video on bibliographic color analysis to
 
 ## Instructor of Record, Carnegie Mellon University  
 
-ENGL 76-101 CC: Cleopatra’s Cultural Afterlife: Representations of Ancient Egypt in Popular Discourse (2 sections)                   Spring 2025
+ENGL 76-101 CC: Cleopatra’s Cultural Afterlife: Representations of Ancient Egypt in Popular Discourse                                Spring 2025
 
 ENGL 76-106 A3: Writing about Ancient Egypt  (2 sections)                                                                            Spring 2024
 
