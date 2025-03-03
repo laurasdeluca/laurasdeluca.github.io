@@ -50,6 +50,9 @@ Awarded BSA grant to create educational video on bibliographic color analysis to
 
 ## Instructor of Record, Carnegie Mellon University  
 
+ENGL76207-A
+        Special Topics: Queenship: Narratives of Power and Identity                                                                    Fall 2025
+
 ENGL 76-101 CC: Cleopatra’s Cultural Afterlife: Representations of Ancient Egypt in Popular Discourse                                Spring 2025
 
 ENGL 76-106 A3: Writing about Ancient Egypt  (2 sections)                                                                            Spring 2024
@@ -57,6 +60,8 @@ ENGL 76-106 A3: Writing about Ancient Egypt  (2 sections)                       
 ENGL 76-106 C2: Writing about Literature, Art, and Culture (2 sections)                                                                Fall 2023
 
 ## Teaching Assistant, Carnegie Mellon University
+
+ENGL 76-329/729: Performing Race in Early Modernity                                                                                   Spring 2025
 
 ENGL 76-247-A: Shakespeare: Comedies and Romances                                                                                      Fall 2023
 
