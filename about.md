@@ -10,13 +10,15 @@ redirect_from:
 
 # About me:
 
-I am a third-year PhD Candidate in English at [Carnegie Mellon University](https://www.cmu.edu/dietrich/english/about-us/phds/bios/laura-deluca.html). My research interests include early modern drama and history, gender and sexuality studies, critical race studies, book history, and digital humanities. In particular, my research focuses on ancient queens in early modern drama, examining the respective models of race and sexuality produced on the early modern English stage.
+I am a fourth-year PhD Candidate in English at [Carnegie Mellon University](https://www.cmu.edu/dietrich/english/about-us/phds/bios/laura-deluca.html). My research interests include early modern drama and history, gender and sexuality studies, critical race studies, book history, and digital humanities. In particular, my research focuses on ancient queens in early modern drama, examining the respective models of race and sexuality produced on the early modern English stage.
 
 # Publications:
 
 ## Articles
 
-“Developing Students’ Statistical Expertise in the Age of AI,” *Journal of Statistics and Data Science Education*, **Laura S. DeLuca**, Alex Reinhart, Gordon Weinberg, Sydney Miller, Michael Laudenbach, and David West Brown. Forthcoming in 2024.
+"Remediation and Spectral Bibliography: Ghost Hunting in Early Modern Books," *Digital Studies/Le champ numérique* 15, no. 1 (2025): 1–20. https://doi.org/10.16995/dscn.11108.
+
+“Developing Students’ Statistical Expertise in the Age of AI,” *Journal of Statistics and Data Science Education* (2025), **Laura S. DeLuca**, Alex Reinhart, Gordon Weinberg, Sydney Miller, Michael Laudenbach, and David West Brown. https://doi.org/10.1080/26939169.2025.2497547.
 
 “Who Rpinted Shakespeare’s Fourth Folio?” *Shakespeare Quarterly*, Christopher N. Warren, Samuel V. Lemley, D.J. Schuldt, Elizabeth Dieterich, **Laura S. DeLuca**, Max G’Sell, Taylor Berg-Kirkpatrick, Kari Thomas, Kartrik Goyal, and Nikolai Volger. DOI.10.1093/sq/quad021.
 
@@ -53,7 +55,7 @@ Awarded BSA grant to create educational video on bibliographic color analysis to
 ENGL76207-A
         Special Topics: Queenship: Narratives of Power and Identity                                                                    Fall 2025
 
-ENGL 76-101 CC: Cleopatra’s Cultural Afterlife: Representations of Ancient Egypt in Popular Discourse                                Spring 2025
+ENGL 76-101 CC: Cleopatra’s Cultural Afterlife: Representations of Ancient Egypt in Popular Discourse                                Spring 2025, Summer 2025
 
 ENGL 76-106 A3: Writing about Ancient Egypt  (2 sections)                                                                            Spring 2024
 
