@@ -40,9 +40,9 @@ A CMU news story was released about the Print and Probability Project team's EST
 A CMU news story was released about an exhibit made for the Print and Probability Project [Inventing Shakespeare Exhibition news story](https://www.library.cmu.edu/about/exhibits/inventing-shakespeare).
 
 ## March 2024: 
-Featured in [AI UCSD story](https://ai.ucsd.edu/node/31).
+Featured in [AI UCSD story]([https://ai.ucsd.edu/node/31](https://ai.ucsd.edu/news/tracing-origins-secretly-printed-documents).
 
-## January 2024: 
+## December 2023: 
 Featured in [Carnegie Mellon University Libraries news story](https://www.library.cmu.edu/about/news/2023-12/stephen-greenblatt-shakespeare-lecture) about a campus visit by Stephen Greenblatt.
 
 ## November 2023: 
