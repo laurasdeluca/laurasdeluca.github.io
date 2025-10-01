@@ -33,7 +33,7 @@ Ndiaye. Philadelphia: University of Pennsylvania Press, 2022. pp. 355. *Shakespe
 
 # News:
 ## October 2025: 
-Featured in new [Statistical Pedagogy & Educational Research TeachStat Group Website] (https://www.cmu.edu/dietrich/statistics-datascience/research/statistical-pedagogy-educational-research.html).
+Featured in new Statistical Pedagogy & Educational Research TeachStat Group Website [new Statistical Pedagogy & Educational Research TeachStat Group Website](https://www.cmu.edu/dietrich/statistics-datascience/research/statistical-pedagogy-educational-research.html).
 
 ## May 2024: 
 A CMU news story was released about the Print and Probability Project team's ESTC stopgap [English Short Title Catalogue](https://library.cmu.edu/about/news/2024-05/english-short-title-catalogue).
