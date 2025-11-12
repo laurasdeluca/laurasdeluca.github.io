@@ -32,6 +32,11 @@ I am a fourth-year PhD Candidate in English at [Carnegie Mellon University](http
 Ndiaye. Philadelphia: University of Pennsylvania Press, 2022. pp. 355. *Shakespeare Quarterly*, September 2024. https://doi.org/10.1093/sq/quae030.
 
 # News:
+
+## November 2025: 
+
+Featured in Carnegie Mellon University News. [“Four Ph.D. Students Receive Humanities Center Conference Grants](https://www.cmu.edu/dietrich/humanities-center/mission-and-initiatives/awardees-graduate-student-grant.html). November 2025. 
+
 ## October 2025: 
 Featured in new Statistical Pedagogy & Educational Research TeachStat Group Website [new Statistical Pedagogy & Educational Research TeachStat Group Website](https://www.cmu.edu/dietrich/statistics-datascience/research/statistical-pedagogy-educational-research.html).
 
